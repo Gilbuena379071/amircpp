@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "I miss you" << std::endl;
+    std::cout << "C++ and Git are now linked!" << std::endl;
     return 0;
 }
